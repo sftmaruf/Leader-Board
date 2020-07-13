@@ -1,0 +1,59 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+}
+#navbarText a{
+    margin-right: 15px;
+    color: white;
+}
+.top-player , #courses{
+    background-color: white;
+    border-radius: 20px;
+}
+.top-player:hover,section:hover{
+    border: 3px solid #562EFF;
+}
+.top-player img{
+    width: 56px;
+}
+.top-player h3{
+    margin-bottom: 50px;
+}
+main , .head{
+    max-width: 870px;
+}
+.font-color{
+    color: #562EFF;
+}
+.top-blog img{
+    width: 177px;
+}
+.line{
+    width: 807px;
+    border: 1px solid #D1D1D1;
+}
+#courses{
+    height: 362px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+}
+.font-red{
+    color: #ED6B4F;;
+}
+.checked{
+    color: #FFC014;
+}
+.fa{
+    font-size: 12px;
+}
+footer p{
+    text-align: center;
+    border-radius: 20px;
+    background-color: #FFE4E8;
+    color:#FF4A60;;
+}
